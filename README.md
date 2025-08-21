@@ -89,10 +89,13 @@ npm run build
 ```
 
 ### 部署脚本
+Linux:
 ```bash
 chmod +x deploy.sh
 ./deploy.sh
 ```
+windows:
+./deploy.bat
 
 ## �� 许可证
 
