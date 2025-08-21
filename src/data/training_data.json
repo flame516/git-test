@@ -1,0 +1,2286 @@
+{
+  "generated_from": "培训信息清单",
+  "count": 140,
+  "items": [
+    {
+      "city": "武汉市",
+      "institution": "武汉市环亚职业培训学校",
+      "address": "武汉市解放大道1121号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 6,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "13995598613",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉天龙职业培训学校",
+      "address": "武汉市汉西路常码头特8号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "027-83514501；13807151884",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉佳圆前程职业培训学校",
+      "address": "武汉市汉阳区琴台龟北路1号13栋1楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 6,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18071714500",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉军需工业技工学校",
+      "address": "武汉市洪山区鲁磨路568号",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 7,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "13886199567",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉市文昌高级职业学校",
+      "address": "武汉市武昌区民主路23号2栋1-2层",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 8,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "13377851356",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "湖北省华龙职业培训学校",
+      "address": "武汉市青山区冶金大道180号",
+      "courses": [
+        "SYB培训",
+        "IYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 15,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18571847116",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉市创博职业培训学校",
+      "address": "武汉市洪山区黄家湖西路3号",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 8,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18674018909",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉新华电脑职业培训学校",
+      "address": "武汉市洪山区珞狮南路和文荟路交叉口南湖星光时代2301-2305、2312室",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 3,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "027-86423599；13971168770",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉问道职业培训学校有限公司",
+      "address": "武汉市东西湖区宏图路8号武汉客厅G栋5楼508、509、510室",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 8,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "17702781846",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉博实职业培训学校",
+      "address": "武汉市蔡甸区奓山街长福新城启动区湖北总部基地CBD人民汽车城一期二组团4栋2层1-27号",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 4,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18571570288",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉市蔡甸区友缘家政职业培训学校",
+      "address": "武汉市蔡甸区蔡甸街广场花城1-3-201",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 10,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18007122176",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "湖北新东方烹饪职业培训学校",
+      "address": "武汉市江夏区花山一路66号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18627717187",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉经济技术开发区誉腾职业培训学校有限公司",
+      "address": "武汉经济技术开发区新都国际A座三楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 12,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "17786361002",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉中丞安全职业培训学校有限公司",
+      "address": "武汉经济技术开发区19C2地块武汉经开未来城A栋1单元2层1号房1-2、1-4",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 8,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "13554471654；15871796387",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武汉东湖新技术开发区万通汽修职业培训学校有限公司",
+      "address": "武汉市东湖新技术开发区清风路5号",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 6,
+      "audience": "城镇登记失业人员、农村转移就业劳动者、毕业年度高校毕业生、初期创业者等符合条件的群体",
+      "contact": "18502783773",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "襄阳市",
+      "institution": "襄阳市劳动就业训练中心",
+      "address": "襄城区檀溪路6号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "监狱服刑人员",
+      "contact": "徐芳0710-3537900",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "nan",
+      "address": "nan",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 3,
+      "audience": "年满16周岁，男性不超过60周岁，女性不超过55周岁",
+      "contact": "nan",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "枣阳市就业训练中心",
+      "address": "枣阳市政法街民主路17号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 11,
+      "audience": "年满18岁人群",
+      "contact": "姜伟0710-6320875",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜城市劳动就业训练中心",
+      "address": "宜城市振兴大道文谊路16号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16周岁，男性不超过60周岁，女性不超过55周岁",
+      "contact": "韩应敏0710-4228861",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "nan",
+      "address": "nan",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 11,
+      "audience": "年满16周岁，男性不超过60周岁，女性不超过55周岁",
+      "contact": "nan",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "老河口市就业训练中心",
+      "address": "老河口市胜利路37号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "年满18岁人群",
+      "contact": "刘东13635805582",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "南漳县就业训练中心",
+      "address": "南漳县城关镇便河路157号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "年满18岁人群",
+      "contact": "刘远涛0710-5243576",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "保康县就业创业培训中心",
+      "address": "湖北省襄阳市保康县城关镇迎宾路136号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 3,
+      "audience": "年满18岁人群",
+      "contact": "冯妮娜0710-5990027",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "谷城县劳动就业培训中心",
+      "address": "谷城县银城大道166号",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 4,
+      "audience": "年满18岁人群",
+      "contact": "王涛0710-7331070",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "襄州区劳动就业训练中心",
+      "address": "襄州区台湾街44号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "年满18岁人群",
+      "contact": "王智15271005810",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "nan",
+      "address": "nan",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 13,
+      "audience": "年满18岁人群",
+      "contact": "nan",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "襄城区就业训练中心",
+      "address": "襄城区环山南路66号君临山1号楼",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满18岁人群",
+      "contact": "张建美0710-2309662",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "nan",
+      "address": "nan",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 3,
+      "audience": "年满18岁人群",
+      "contact": "nan",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "襄阳市新梦想职业技能学校",
+      "address": "樊城区中原路48号综合实验楼南4楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 0,
+      "audience": "年满16周岁，男性不超过60周岁，女性不超过55周岁",
+      "contact": "杨洪成15334234329",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "襄阳高新技术产业开发区新东方烹饪职业培训学校有限公司",
+      "address": "高新区无锡路32号丽晶斌公司院内",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "城镇登记失业人员及农村转移就业劳动者",
+      "contact": "马帅18871030995",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "襄阳东津金源职业培训中心",
+      "address": "东津新区史台社区三楼",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 4,
+      "audience": "年满18岁人群",
+      "contact": "杨宇0710-2815808 19072019829",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "宜昌市",
+      "institution": "宜昌市公共就业创业指导和信息服务中心",
+      "address": "宜昌市高新区生物产业园双河路402号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 6,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "李成武13114466815",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市公共就业创业指导和信息服务中心",
+      "address": "宜昌市高新区生物产业园双河路402号",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 6,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "李成武13114466815",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌千伍职业培训学校有限公司",
+      "address": "宜昌市伍家岗区合益路197号上合园4栋",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "杜老师 0717-6358886/17707175676",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌千伍职业培训学校有限公司",
+      "address": "宜昌市伍家岗区合益路197号上合园4栋",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 5,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "杜老师 0717-6358886/17707175676",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌千伍职业培训学校有限公司",
+      "address": "宜昌市伍家岗区合益路197号上合园4栋",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "杜老师 0717-6358886/17707175676",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市新世纪职业培训学校",
+      "address": "宜昌市胜利三路14号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 5,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "陈老师0717-6452592",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市新世纪职业培训学校",
+      "address": "宜昌市胜利三路14号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 4,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈老师0717-6452592",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市新世纪职业培训学校",
+      "address": "宜昌市胜利三路14号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈老师0717-6452592",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市天一现代职业培训学校",
+      "address": "宜昌市桔城路6号福久源大厦1908室",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "李炼15997553509",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市天一现代职业培训学校",
+      "address": "宜昌市桔城路6号福久源大厦1909室",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "李炼15997553509",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市天一现代职业培训学校",
+      "address": "宜昌市桔城路6号福久源大厦1910室",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "李炼15997553509",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌求索职业培训学校",
+      "address": "宜昌市西陵区大学路8号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "张凤娇 0717-6399607",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌求索职业培训学校",
+      "address": "宜昌市西陵区大学路8号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张凤娇 0717-6399607",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌求索职业培训学校",
+      "address": "宜昌市西陵区大学路8号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张凤娇 0717-6399607",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市融创职业培训学校有限公司",
+      "address": "宜昌市伍家岗区桔乡路498号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈玲俐  13477193190",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市融创职业培训学校有限公司",
+      "address": "宜昌市伍家岗区桔乡路498号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈玲俐  13477193190",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市融创职业培训学校有限公司",
+      "address": "宜昌市伍家岗区桔乡路498号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "陈玲俐  13477193190",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市元世纪职业培训学校",
+      "address": "宜昌市点军区五龙社区、桥边",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 9,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "陈老师0717-6452592",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市元世纪职业培训学校",
+      "address": "宜昌市点军区五龙社区、桥边",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈老师0717-6452592",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "夷陵区劳动就业训练中心",
+      "address": "宜昌市夷陵区湖光路7号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 8,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "汪成0717-7822300",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "夷陵区劳动就业训练中心",
+      "address": "宜昌市夷陵区湖光路7号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 8,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "汪成0717-7822300",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市夷陵区醉三峡职业培训学校",
+      "address": "宜昌市夷陵区明珠一巷23号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张克南 15997693990",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜昌市夷陵区醉三峡职业培训学校",
+      "address": "宜昌市夷陵区明珠一巷23号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 25,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张克南 15997693990",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宜都市就业训练中心",
+      "address": "宜都市陆城街办杨守敬大道90号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "李俊峰 0717-4832915",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "枝江市人力资源和社会保障培训中心",
+      "address": "枝江市人事考试院（礼化路100号）",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 30,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "赵灿0717-4216939",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "当阳市就业培训中心",
+      "address": "当阳市东群路54号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 10,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张红0717-3241477",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "远安县就业培训中心",
+      "address": "远安县鸣凤镇鸣凤大道与城南三路交汇处",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 6,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张老师 0717-3811288",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "远安县就业培训中心",
+      "address": "远安县鸣凤镇鸣凤大道与城南三路交汇处",
+      "courses": [
+        "网络创业培训"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张老师 0717-3811288",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "远安县就业培训中心",
+      "address": "远安县鸣凤镇鸣凤大道与城南三路交汇处",
+      "courses": [
+        "GYB培训"
+      ],
+      "sessions": 5,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "张老师 0717-3811288",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "兴山县职业教育中心",
+      "address": "兴山县古夫镇香溪大道16号兴山县职业教育中心校内",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 3,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "覃老师18972557722",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "兴山县弘兴职业培训学校有限公司",
+      "address": "兴山县峡口镇居委会3组63号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "舒老师18607207888",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "子归旅投职业技能培训学校（秭归）有限公司",
+      "address": "秭归县明珠大道61号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "安钢、刘斯0717-2886947",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "子归旅投职业技能培训学校（秭归）有限公司",
+      "address": "秭归县明珠大道61号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "安钢、刘斯0717-2886947",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "子归旅投职业技能培训学校（秭归）有限公司",
+      "address": "秭归县明珠大道61号",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "安钢、刘斯0717-2886947",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "长阳土家族自治县劳动就业培训中心",
+      "address": "长阳土家族自治县龙舟大道",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "陈老师0717-5322529",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "长阳土家族自治县劳动就业培训中心",
+      "address": "长阳土家族自治县龙舟大道",
+      "courses": [
+        "IYB培训"
+      ],
+      "sessions": 1,
+      "audience": "劳动年龄内的“九类人员”和创业6个月以上的创业者",
+      "contact": "陈老师0717-5322529",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "长阳土家族自治县劳动就业培训中心",
+      "address": "长阳土家族自治县龙舟大道",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 8,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "陈老师0717-5322529",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "五峰土家族自治县就业训练中心",
+      "address": "五峰土家族自治县渔洋关镇后河大道27号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 6,
+      "audience": "劳动年龄内的“九类人员”和符合条件的创业者",
+      "contact": "肖雪锋0717-5828195",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "五峰土家族自治县就业训练中心",
+      "address": "五峰土家族自治县渔洋关镇后河大道27号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "劳动年龄内的“九类人员”、创业6个月内的创业者",
+      "contact": "肖雪锋0717-5828195",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "黄石市",
+      "institution": "黄石市就业训练中心",
+      "address": "黄石市黄石大道71号就业大厦",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 12,
+      "audience": "未就业、灵活就业状态下的九类人员",
+      "contact": "0714-6521060/程亮",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "大冶市劳动就业训练中心",
+      "address": "大冶市东风路街道金湖大道66号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 12,
+      "audience": "未就业、灵活就业状态下的九类人员",
+      "contact": "石锐/0714-8762237、0714-8762219",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "阳新县就业训练中心",
+      "address": "阳新县环湖东路6号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 16,
+      "audience": "未就业、灵活就业状态下的九类人员",
+      "contact": "刘会溪0714-7356166",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "十堰市",
+      "institution": "十堰市劳动就业训练中心",
+      "address": "十堰市茅箭区人民北路17号",
+      "courses": [
+        "SYB培训",
+        "GYB培训",
+        "网络"
+      ],
+      "sessions": 85,
+      "audience": "创业初期人员、城镇登记失业人员、农村转移就业劳动者等九类人员",
+      "contact": "杨运辰0719-8659397",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "湖北医药学院",
+      "address": "十堰市茅箭区北人民南路30号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 47,
+      "audience": "男16-60周岁、女16-55周岁。1、城镇登记失业人员；2、脱贫劳动力（含防返贫监测对象）；3、毕业年度高校毕业生（含技工院校高级工班、预备技师班、技师班和特殊教育院校职业教育类毕业生）；4、城乡未继续升学的应届初高中毕业生；5、农村转移就业劳动者（包括失地农民）；6、就业困难人员；7、余刑两年内的服刑人员；8、戒毒康复人员；9、省委、省政府批准的其他人员。",
+      "contact": "梁晨0719-8891360",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市张湾区就业训练中心",
+      "address": "十堰市张湾区车城西路309号",
+      "courses": [
+        "GYB培训",
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 32,
+      "audience": "年满18岁人群",
+      "contact": "熊鸿雁0719-8520390",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市郧阳区公共就业和人才服务局就业训练中心",
+      "address": "十堰市郧阳区城关镇郧阳路75号",
+      "courses": [
+        "SYB培训",
+        "GYB培训",
+        "网络"
+      ],
+      "sessions": 15,
+      "audience": "城镇登记失业人员、农村转移就业劳动者；包括失地农民）；城乡未继续升学的应届初高中毕业生、贫困家庭（包括低保家庭）子女；建档立卡贫困劳动力；毕业年度（毕业当年的1月1日至12月31日，下同）高校毕业生（含技师学院高级工班、预备技师班和特殊教育院校职业教育类毕业生，以下统称“高校毕业生”）；余刑两年内的服刑人员；戒毒康复人员；省委、省政府批准的其他人员。",
+      "contact": "黄太忠0719-7223102",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市丹江口市天天科技职业培训学校",
+      "address": "十堰市丹江口市沙陀营路108号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "年满18岁人群",
+      "contact": "丁利民15926188230",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市房县就业培训中心",
+      "address": "十堰市房县城关镇房陵东大道35号房县就业培训中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "年满18岁人群",
+      "contact": "戢琼13429972066",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市竹溪县劳动就业训练中心",
+      "address": "十堰市竹溪县城关镇人民路11号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 3,
+      "audience": "九类人员",
+      "contact": "李林0719-2723882",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市武当山天天职业技能培训学校",
+      "address": "十堰市武当山特区车站路22号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "有创业意愿和培训需求的九类人员及符合有关规定的其他创业者",
+      "contact": "袁薇15971896225",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市郧西县劳动就业培训中心",
+      "address": "十堰市郧西县富康大道70号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 3,
+      "audience": "脱贫劳动力（含防返贫监测对象）；毕业年度高校毕业生；城乡未继续升学的应届初高中毕业生；农村转移就业劳动者(包括失地农民) ；城镇登记失业人员；就业困难人员；余刑两年内的服刑人员 ；戒毒康复人员；省委、省政府批准的其他人员；符合条件的企业职工",
+      "contact": "吴华07196235296",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "十堰市竹山县公共就业和人才服务局就业训练中心",
+      "address": "十堰市竹山县城关镇纵横大道5号606室",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 12,
+      "audience": "年满18岁人群",
+      "contact": "陈奇0719-4231470",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "荆州市",
+      "institution": "荆州市就业训练中心",
+      "address": "沙市区锣场镇创业大道29号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 57,
+      "audience": "大学生 失业人员",
+      "contact": "管泉隆18071882111",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "荆门市",
+      "institution": "荆门市就业创业服务中心",
+      "address": "荆楚理工学院",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "毕业年度高校毕业生",
+      "contact": "李俊15972640958",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "荆门市就业创业服务中心",
+      "address": "荆门市就业创业服务中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "李俊15972640958",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "沙洋县就业训练中心",
+      "address": "沙洋县就业训练中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "解波8558105",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "钟祥市劳动就业训练中心",
+      "address": "钟祥市劳动就业训练中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "申明13451165859",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "京山市劳动就业训练中心",
+      "address": "京山市新市镇城中路415号；京山市金瑞物流园",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "向进0724-7239479",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "掇刀区就业训练中心",
+      "address": "掇刀区官堰湖大道88号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "范兰0724-2447160",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "荆门市屈家岭管理区文德职业技能培训有限责任公司",
+      "address": "屈家岭管理区农博城农村电商商务全国运营中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和创业培训需求的城乡劳动者",
+      "contact": "张帆18972883248",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "荆门市汇才创业职业技能培训学校",
+      "address": "荆门市掇刀区虎牙关大道6号",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和网络创业培训需求的城乡劳动者",
+      "contact": "程书樵15926669071",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "荆门市顾得职业技能培训学校",
+      "address": "荆门市东宝区中天街加州酒店C座九楼",
+      "courses": [
+        "网络创业培训（电商）"
+      ],
+      "sessions": 0,
+      "audience": "有创业意愿和网络创业培训需求的城乡劳动者",
+      "contact": "李金华15872905089",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "孝感市",
+      "institution": "孝感市劳动就业训练中心",
+      "address": "孝感市城站路141号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "倪博；13972688080",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "安陆市劳动就业训练中心",
+      "address": "安陆市解放大道东路6号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "叶刚；0712-5255328",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "应城市劳动就业训练中心",
+      "address": "应城市育才路2号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "陶昊；0712-3220566",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "大悟县劳动就业培训中心",
+      "address": "大悟县城关镇汉大市场71号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "年满18岁人群",
+      "contact": "彭毅 ；0712--7221936",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "云梦县劳动就业培训中心",
+      "address": "云梦县建设路劳动大楼一楼",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "关13733458881",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "孝南区劳动就业训练中心",
+      "address": "孝感市孝南区城站路6号老培训中心院内",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "熊军；0712-2859668",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "孝昌县就业训练中心",
+      "address": "孝昌县花园镇古城大道118号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "陈浩；0712-2767919",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "汉川市劳动就业训练中心",
+      "address": "汉川市仙女山街道山后二路10号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "女18-55周岁、男18-60周岁",
+      "contact": "何春平；0712-8294519",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "黄冈市",
+      "institution": "黄冈市劳动就业训练中心",
+      "address": "黄冈市黄州区西湖一路10号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 7,
+      "audience": "毕业年度高校毕业生",
+      "contact": "钟睿07138615523",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "红安县就业培训中心",
+      "address": "红安县陵园大道与园艺路交叉口东340米",
+      "courses": [
+        "GYB培训"
+      ],
+      "sessions": 3,
+      "audience": "符合条件的九类人员",
+      "contact": "王老师 0713-5283885",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "英山县就业训练中心",
+      "address": "英山县公共就业服务中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 4,
+      "audience": "年满18岁人群",
+      "contact": "喻焰梅0713-7112087",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "浠水县就业训练中心",
+      "address": "浠水县就业训练中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 3,
+      "audience": "年满18岁人群",
+      "contact": "张锐   13476698289",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "麻城市就业训练中心",
+      "address": "麻城市工业路45号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 12,
+      "audience": "年满18岁人群",
+      "contact": "杨梦妮0713-2913787",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "黄冈市黄州区劳动就业培训中心",
+      "address": "黄州区人力资源和社会保障局（西湖三路）",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 9,
+      "audience": "年满18岁",
+      "contact": "漆金涛0713-8396678",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "武穴市就业训练中心",
+      "address": "城东新区岳武路大江文化产业园；B区人才交流培训服务中心",
+      "courses": [
+        "GYB培训"
+      ],
+      "sessions": 0,
+      "audience": "年满18岁人群",
+      "contact": "吴桢（13554533786）",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "罗田县劳动就业训练中心",
+      "address": "罗田县智慧物流园5楼",
+      "courses": [
+        "网络创业培训（直播）"
+      ],
+      "sessions": 0,
+      "audience": "《湖北省就业补助资金管理办法》规定的九类人员和符合有关规定的创业者",
+      "contact": "王强（15171607889）",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "团风县就业训练中心",
+      "address": "团风县团黄大道特1号团风县人社局大楼二楼就业训练中心",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "16-55岁人群",
+      "contact": "朱倬林13871983404",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "蕲春县就业训练中心",
+      "address": "蕲春县漕河镇齐昌大道276号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满18岁人群",
+      "contact": "伊飞15629678006",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "咸宁市",
+      "institution": "咸安区就业创业训练中心",
+      "address": "咸安经济开发区模具产业园兴发路40号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 10,
+      "audience": "年满18岁人群、；有培训意愿的九类人员",
+      "contact": "赵显兰0715-8068139",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "赤壁市工企职业培训学校",
+      "address": "赤壁市银河湾路银河花园城2号楼",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 6,
+      "audience": "年满18岁人群",
+      "contact": "张辉18671158999",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "崇阳县职业技能培训中心",
+      "address": "崇阳县天城镇人民大道235号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 6,
+      "audience": "处于未就业或灵活就业的九类人员",
+      "contact": "邓伟15172734950",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "通城县中腾职业培训学校",
+      "address": "通城县秀水大道404号金融传媒中心S1栋1008二楼",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 0,
+      "audience": "灵活就业、失业人员",
+      "contact": "李黎15607249400",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "九曜职业技能培训学校",
+      "address": "通山县开发区核电公路旁",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 10,
+      "audience": "九类人员",
+      "contact": "乐建杨13797235788",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "嘉鱼县建坤职业培训学校",
+      "address": "嘉鱼县鱼岳镇东岳路16号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 15,
+      "audience": "18-60岁人群",
+      "contact": "廖松山 13728967357",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "随州市",
+      "institution": "随州市就业训练中心",
+      "address": "随州市曾都区擂鼓墩大道108号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 20,
+      "audience": "处于未就业或灵活就业状态的农村转移就业劳动者（包括失地农民）、城镇登记失业人员、就业困难人员、脱贫劳动力、毕业年度高校毕业生、城乡未继续升学的应届初高中毕业生、余刑两年内的服刑人员、戒毒康复人员、省委省政府批准的其他人员。免费培训需年满16周岁，男性不超过60周岁、女性不超过55周岁，且皆未退休。",
+      "contact": "谢灵玉；0722-3230369",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "随州市曾都区劳动就业训练中心",
+      "address": "随州市曾都区东城街道青年路2号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "杜春林 ；0722-3325578",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "广水市劳动就业培训中心",
+      "address": "广水市随州应山办事处航空南路17号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 38,
+      "audience": "年满18周岁的农村转移就业劳动者、城镇登记失业人员、脱贫劳动力。",
+      "contact": "杨国华；0722-6305166",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "随县劳动就业训练中心",
+      "address": "随县新县城文昌路1号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 9,
+      "audience": "年满18岁人群",
+      "contact": "周庆富；15071649696",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "恩施市",
+      "institution": "恩施州创视界职业培训学校有限公司",
+      "address": "湖北省恩施市金子坝街道硒谷大道徕福硒业大楼6楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "李女士17771666516",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "利川飞强职业学校有限公司",
+      "address": "利川市君临锦绣二楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "曾先生13337493318",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "建始县就业培训中心",
+      "address": "恩施土家族苗族自治州建始县建始县公共就业和人才服务局",
+      "courses": [
+        "GYB培训",
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "谭先生0718-8431056",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "巴东县劳动就业培训中心",
+      "address": "巴东县巫峡路19号",
+      "courses": [
+        "GYB培训",
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "樊女士18171579665",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "宣恩县培训中心",
+      "address": "宣恩县珠山镇人民路129号4楼",
+      "courses": [
+        "GYB培训",
+        "SYB培训",
+        "IYB培训",
+        "EYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "曾女士18986841888",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "咸丰县民族技工学校",
+      "address": "湖北省咸丰县高乐山镇杨泗坝",
+      "courses": [
+        "GYB培训",
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "李先生13385232222",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "来凤县鸿亿职业技能培训学校",
+      "address": "来凤县翔凤镇喳西泰水城餐饮街4栋三层301",
+      "courses": [
+        "GYB培训",
+        "SYB培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "李女士15826665628",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "鹤峰禾汇机动车驾驶员培训学校有限公司",
+      "address": "鹤峰县走马镇宜城路宜达客运站院内",
+      "courses": [
+        "GYB培训",
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "牟先生15272220703",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "仙桃市",
+      "institution": "仙桃市就业训练中心",
+      "address": "仙桃大道36号",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "9类重点人群及符合政策的处于不同创业阶段的创业者",
+      "contact": "刘老师0728-3334323/19307258640",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "仙桃职业学院",
+      "address": "仙桃纺织大道8号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "9类重点人群及符合政策的处于不同创业阶段的创业者",
+      "contact": "魏老师15392811886",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "",
+      "institution": "仙桃高新职校",
+      "address": "仙桃市沔阳大道113号(公园世家旁)",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "9类重点人群及符合政策的处于不同创业阶段的创业者",
+      "contact": "刘老师15307225880",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "潜江市",
+      "institution": "潜江市就业训练中心",
+      "address": "潜江市红梅西路55号人力资源市场",
+      "courses": [
+        "制图员",
+        "服装缝纫",
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 50,
+      "audience": "处于未就业、灵活就业状态的以下“九类人员”：脱贫劳动力（含防返贫监测对象)、毕业年度(毕业当年的1月1日至12月31日)高校毕业生(含技工院校高级工班、预备技师班、技师班和特殊教育院校职业教育类毕业生)、城乡未继续升学的应届初高中毕业生、农村转移就业劳动者(包括失地农民)、城镇登记失业人员、就业困难人员、余刑两年内的服刑人员、戒毒康复人员和省委省政府批准的其他人员等，以及符合条件的企业职工。",
+      "contact": "黄霞0728-6239515",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "天门市",
+      "institution": "天门市就业训练中心",
+      "address": "天门市竟陵钟惺大道43号校区内",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 30,
+      "audience": "城镇登记失业人员;农村转移就业劳动者;城乡未继续升学的应届初高中毕业生;贫困家庭子女;建档立卡贫困劳动力;毕业年度高校毕业生;余刑两年内的服刑人员;戒毒康复人员;省委、省政府批准的其他人员。",
+      "contact": "聂小红0728-5337024",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "神农架林区",
+      "institution": "神农架林区劳动就业训练中心",
+      "address": "神农架林区松柏镇滨河大道7号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满18岁人群",
+      "contact": "康钧0719-3336514",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "随州市",
+      "institution": "随县劳动就业训练中心",
+      "address": "随县新县城文昌路1号",
+      "courses": [
+        "SYB培训"
+      ],
+      "sessions": 9,
+      "audience": "年满18岁人群",
+      "contact": "周庆富15071649696",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "恩施市",
+      "institution": "恩施州创视界职业培训学校有限公司",
+      "address": "湖北省恩施市金子坝街道硒谷大道徕福硒业大楼6楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "李女士17771666516",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "恩施市",
+      "institution": "利川飞强职业学校有限公司",
+      "address": "利川市君临锦绣二楼",
+      "courses": [
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "曾先生13337493318",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "恩施市",
+      "institution": "建始县就业培训中心",
+      "address": "恩施土家族苗族自治州建始县建始县公共就业和人才服务局",
+      "courses": [
+        "GYB培训",
+        "SYB培训"
+      ],
+      "sessions": 2,
+      "audience": "年满16岁人群",
+      "contact": "谭先生0718-8431056",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    },
+    {
+      "city": "恩施市",
+      "institution": "巴东县劳动就业培训中心",
+      "address": "巴东县巫峡路19号",
+      "courses": [
+        "GYB培训",
+        "SYB培训",
+        "网络创业培训"
+      ],
+      "sessions": 1,
+      "audience": "年满16岁人群",
+      "contact": "樊女士18171579665",
+      "kpi": {
+        "trained_total": null,
+        "employment_rate": null,
+        "satisfaction": null
+      }
+    }
+  ]
+}

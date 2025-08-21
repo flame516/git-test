@@ -1,0 +1,802 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600;700;800;900&family=JetBrains+Mono:wght@400;500;600;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* 自定义字体 */
+.font-display {
+  font-family: 'Inter', -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif;
+}
+
+.font-mono {
+  font-family: 'JetBrains Mono', 'Fira Code', 'Consolas', monospace;
+}
+
+/* 自定义滚动条 */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: rgba(168, 85, 247, 0.1);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb {
+  background: rgba(168, 85, 247, 0.5);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: rgba(168, 85, 247, 0.7);
+}
+
+/* 玻璃拟态效果 */
+.glass-effect {
+  background: rgba(168, 85, 247, 0.1);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+.glass-card {
+  background: rgba(88, 28, 135, 0.2);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(168, 85, 247, 0.2);
+}
+
+/* 渐变文字和边框 */
+.gradient-text {
+  background: linear-gradient(135deg, #a855f7, #c084fc, #d8b4fe);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+}
+
+.gradient-border {
+  background: linear-gradient(135deg, #a855f7, #c084fc, #d8b4fe);
+  padding: 2px;
+  border-radius: 12px;
+}
+
+/* 闪烁效果 */
+.shimmer-effect {
+  background: linear-gradient(
+    90deg,
+    transparent,
+    rgba(168, 85, 247, 0.2),
+    transparent
+  );
+  background-size: 200% 100%;
+  animation: shimmer 2s infinite;
+}
+
+/* 浮动动画 */
+.floating {
+  animation: float 6s ease-in-out infinite;
+}
+
+/* 自定义动画关键帧 */
+@keyframes shimmer {
+  0% { background-position: -200% 0; }
+  100% { background-position: 200% 0; }
+}
+
+@keyframes float {
+  0%, 100% { transform: translateY(0px); }
+  50% { transform: translateY(-20px); }
+}
+
+@keyframes glow {
+  0%, 100% { 
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.5);
+  }
+  50% { 
+    box-shadow: 0 0 40px rgba(168, 85, 247, 0.8), 0 0 60px rgba(168, 85, 247, 0.4);
+  }
+}
+
+@keyframes pulse-glow {
+  0%, 100% { 
+    box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+  }
+  50% { 
+    box-shadow: 0 0 40px rgba(168, 85, 247, 0.6);
+  }
+}
+
+@keyframes fadeInUp {
+  from {
+    opacity: 0;
+    transform: translateY(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInDown {
+  from {
+    opacity: 0;
+    transform: translateY(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes fadeInLeft {
+  from {
+    opacity: 0;
+    transform: translateX(-30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes fadeInRight {
+  from {
+    opacity: 0;
+    transform: translateX(30px);
+  }
+  to {
+    opacity: 1;
+    transform: translateX(0);
+  }
+}
+
+@keyframes scaleIn {
+  from {
+    opacity: 0;
+    transform: scale(0.8);
+  }
+  to {
+    opacity: 1;
+    transform: scale(1);
+  }
+}
+
+@keyframes slideInFromTop {
+  from {
+    opacity: 0;
+    transform: translateY(-100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+@keyframes slideInFromBottom {
+  from {
+    opacity: 0;
+    transform: translateY(100%);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+/* 响应式设计增强 - 针对电脑浏览器优化 */
+@media (min-width: 1024px) {
+  /* 电脑端字体大小优化 */
+  .text-2xl {
+    font-size: 1.75rem;
+    line-height: 2.25rem;
+  }
+  
+  .text-3xl {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  
+  .text-4xl {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  
+  .text-5xl {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+  
+  /* 模块间距优化 */
+  .module-spacing {
+    padding: 1.75rem;
+    margin-bottom: 1.5rem;
+  }
+  
+  /* 图标尺寸优化 */
+  .icon-large {
+    width: 3rem;
+    height: 3rem;
+  }
+  
+  .icon-large svg {
+    width: 1.5rem;
+    height: 1.5rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  /* 大屏幕优化 */
+  .text-2xl {
+    font-size: 1.875rem;
+    line-height: 2.375rem;
+  }
+  
+  .text-3xl {
+    font-size: 2.25rem;
+    line-height: 2.75rem;
+  }
+  
+  .text-4xl {
+    font-size: 2.75rem;
+    line-height: 3.25rem;
+  }
+  
+  .text-5xl {
+    font-size: 3.25rem;
+    line-height: 3.75rem;
+  }
+  
+  /* 更大的模块间距 */
+  .module-spacing {
+    padding: 2rem;
+    margin-bottom: 2rem;
+  }
+  
+  /* 更大的图标 */
+  .icon-large {
+    width: 3.5rem;
+    height: 3.5rem;
+  }
+  
+  .icon-large svg {
+    width: 1.75rem;
+    height: 1.75rem;
+  }
+}
+
+@media (min-width: 1536px) {
+  /* 超大屏幕优化 */
+  .text-2xl {
+    font-size: 2rem;
+    line-height: 2.5rem;
+  }
+  
+  .text-3xl {
+    font-size: 2.5rem;
+    line-height: 3rem;
+  }
+  
+  .text-4xl {
+    font-size: 3rem;
+    line-height: 3.5rem;
+  }
+  
+  .text-5xl {
+    font-size: 3.5rem;
+    line-height: 4rem;
+  }
+  
+  /* 超大屏幕间距 */
+  .module-spacing {
+    padding: 2.5rem;
+    margin-bottom: 2.5rem;
+  }
+  
+  /* 超大屏幕图标 */
+  .icon-large {
+    width: 4rem;
+    height: 4rem;
+  }
+  
+  .icon-large svg {
+    width: 2rem;
+    height: 2rem;
+  }
+}
+
+/* 响应式设计增强 */
+@media (max-width: 1024px) {
+  .glass-card {
+    backdrop-filter: blur(15px);
+  }
+}
+
+@media (max-width: 768px) {
+  .glass-card {
+    backdrop-filter: blur(10px);
+  }
+}
+
+/* 打印样式 */
+@media print {
+  .glass-effect,
+  .glass-card {
+    background: white !important;
+    backdrop-filter: none !important;
+    border: 1px solid #ccc !important;
+  }
+  
+  .gradient-text {
+    color: #333 !important;
+    background: none !important;
+    -webkit-text-fill-color: #333 !important;
+  }
+}
+
+/* 减少动画模式支持 */
+@media (prefers-reduced-motion: reduce) {
+  *,
+  *::before,
+  *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+  }
+  
+  .floating,
+  .shimmer-effect {
+    animation: none;
+  }
+}
+
+/* 高德地图容器样式 - 确保地图稳定显示 */
+.amap-container {
+  width: 100% !important;
+  height: 100% !important;
+  position: absolute !important;
+  top: 0 !important;
+  left: 0 !important;
+  z-index: 0 !important;
+}
+
+/* 地图加载状态样式 */
+.map-loading {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(88, 28, 135, 0.6), rgba(124, 58, 237, 0.6));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+/* 地图错误状态样式 */
+.map-error {
+  position: absolute;
+  inset: 0;
+  background: linear-gradient(135deg, rgba(185, 28, 28, 0.6), rgba(239, 68, 68, 0.6));
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  z-index: 10;
+}
+
+/* 紫色主题强化 */
+.purple-theme {
+  --primary: #a855f7;
+  --primary-light: #c084fc;
+  --primary-lighter: #d8b4fe;
+  --primary-lightest: #e9d5ff;
+  --primary-dark: #7c3aed;
+  --primary-darker: #6d28d9;
+  --primary-darkest: #581c87;
+}
+
+/* 半透明模块样式 */
+.module-transparent {
+  background: rgba(88, 28, 135, 0.15);
+  backdrop-filter: blur(20px);
+  border: 1px solid rgba(168, 85, 247, 0.15);
+  transition: all 0.3s ease;
+}
+
+.module-transparent:hover {
+  background: rgba(88, 28, 135, 0.25);
+  border-color: rgba(168, 85, 247, 0.3);
+  transform: translateY(-2px);
+}
+
+/* 地图覆盖层样式 */
+.map-overlay {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
+.map-overlay * {
+  pointer-events: auto;
+}
+
+/* 模块悬停效果 */
+.module-hover {
+  transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
+}
+
+.module-hover:hover {
+  transform: translateY(-8px) scale(1.02);
+  box-shadow: 0 25px 50px -12px rgba(168, 85, 247, 0.25);
+}
+
+/* 紫色光晕效果 */
+.purple-glow {
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.3);
+}
+
+.purple-glow:hover {
+  box-shadow: 0 0 40px rgba(168, 85, 247, 0.5);
+}
+
+/* 渐变背景 */
+.purple-gradient {
+  background: linear-gradient(135deg, #581c87, #7c3aed, #a855f7);
+}
+
+.purple-gradient-light {
+  background: linear-gradient(135deg, #7c3aed, #a855f7, #c084fc);
+}
+
+/* 文字阴影 */
+.text-shadow-purple {
+  text-shadow: 0 2px 4px rgba(168, 85, 247, 0.3);
+}
+
+/* 边框发光 */
+.border-glow-purple {
+  border: 1px solid rgba(168, 85, 247, 0.3);
+  box-shadow: 0 0 10px rgba(168, 85, 247, 0.2);
+}
+
+.border-glow-purple:hover {
+  border-color: rgba(168, 85, 247, 0.6);
+  box-shadow: 0 0 20px rgba(168, 85, 247, 0.4);
+}
+
+/* 动态背景效果 */
+.dynamic-bg {
+  position: absolute;
+  inset: 0;
+  overflow: hidden;
+}
+
+.dynamic-bg .floating-orb {
+  position: absolute;
+  width: 12rem;
+  height: 12rem;
+  background: rgba(168, 85, 247, 0.15);
+  border-radius: 50%;
+  filter: blur(2rem);
+  animation: float 8s ease-in-out infinite;
+}
+
+.dynamic-bg .floating-orb:nth-child(1) {
+  top: 0;
+  left: 0;
+  animation-delay: 0s;
+}
+
+.dynamic-bg .floating-orb:nth-child(2) {
+  top: 25%;
+  right: 0;
+  animation-delay: 2s;
+}
+
+.dynamic-bg .floating-orb:nth-child(3) {
+  bottom: 0;
+  left: 25%;
+  animation-delay: 4s;
+}
+
+/* 粒子效果 */
+.particle {
+  position: absolute;
+  width: 2px;
+  height: 2px;
+  background: rgba(168, 85, 247, 0.4);
+  border-radius: 50%;
+  pointer-events: none;
+}
+
+/* 模块样式优化 */
+.module-card {
+  background: rgba(88, 28, 135, 0.15);
+  backdrop-filter: blur(16px);
+  border: 1px solid rgba(168, 85, 247, 0.15);
+  border-radius: 0.75rem;
+  transition: all 0.3s ease;
+}
+
+.module-card:hover {
+  background: rgba(88, 28, 135, 0.25);
+  border-color: rgba(168, 85, 247, 0.3);
+  transform: translateY(-4px);
+}
+
+/* 图标容器 */
+.icon-container {
+  width: 2rem;
+  height: 2rem;
+  background: rgba(168, 85, 247, 0.3);
+  border-radius: 0.5rem;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  transition: all 0.3s ease;
+}
+
+.icon-container:hover {
+  background: rgba(168, 85, 247, 0.4);
+  transform: scale(1.1);
+}
+
+/* 数据展示 - 针对电脑浏览器优化 */
+.data-main {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #c084fc;
+  margin-bottom: 0.5rem;
+  line-height: 1.2;
+}
+
+.data-sub {
+  font-size: 1.5rem;
+  font-weight: 600;
+  color: #a855f7;
+  margin-bottom: 0.5rem;
+  line-height: 1.3;
+}
+
+.data-label {
+  font-size: 1rem;
+  color: #d8b4fe;
+  line-height: 1.4;
+}
+
+/* 图表容器 - 优化高度 */
+.chart-container {
+  height: 8rem;
+  margin-top: 1rem;
+}
+
+/* 底部统计 - 优化布局和字体 */
+.stats-grid {
+  display: grid;
+  grid-template-columns: repeat(6, 1fr);
+  gap: 2rem;
+  height: 100%;
+  align-items: center;
+}
+
+.stat-item {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}
+
+.stat-icon {
+  width: 5rem;
+  height: 5rem;
+  background: rgba(168, 85, 247, 0.3);
+  border-radius: 50%;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 1rem;
+  transition: all 0.3s ease;
+  border: 2px solid rgba(168, 85, 247, 0.2);
+}
+
+.stat-icon:hover {
+  background: rgba(168, 85, 247, 0.4);
+  transform: scale(1.1);
+  border-color: rgba(168, 85, 247, 0.4);
+}
+
+.stat-value {
+  font-size: 2.5rem;
+  font-weight: 700;
+  color: #c084fc;
+  margin-bottom: 0.75rem;
+  line-height: 1.2;
+}
+
+.stat-label {
+  font-size: 1.125rem;
+  color: #e9d5ff;
+  font-weight: 600;
+  line-height: 1.3;
+}
+
+/* 模块标题优化 */
+.module-title {
+  font-size: 1.75rem;
+  font-weight: 600;
+  color: #e9d5ff;
+  line-height: 1.3;
+  margin-bottom: 1.25rem;
+}
+
+/* 模块内容优化 */
+.module-content {
+  font-size: 1.125rem;
+  line-height: 1.5;
+  color: #d8b4fe;
+}
+
+/* 响应式字体大小 */
+@media (min-width: 1024px) {
+  .data-main {
+    font-size: 2.75rem;
+  }
+  
+  .data-sub {
+    font-size: 1.75rem;
+  }
+  
+  .data-label {
+    font-size: 1.125rem;
+  }
+  
+  .module-title {
+    font-size: 2rem;
+  }
+  
+  .module-content {
+    font-size: 1.25rem;
+  }
+  
+  .stat-value {
+    font-size: 2.75rem;
+  }
+  
+  .stat-label {
+    font-size: 1.25rem;
+  }
+}
+
+@media (min-width: 1280px) {
+  .data-main {
+    font-size: 3rem;
+  }
+  
+  .data-sub {
+    font-size: 2rem;
+  }
+  
+  .data-label {
+    font-size: 1.25rem;
+  }
+  
+  .module-title {
+    font-size: 2.25rem;
+  }
+  
+  .module-content {
+    font-size: 1.375rem;
+  }
+  
+  .stat-value {
+    font-size: 3rem;
+  }
+  
+  .stat-label {
+    font-size: 1.375rem;
+  }
+}
+
+@media (min-width: 1536px) {
+  .data-main {
+    font-size: 3.25rem;
+  }
+  
+  .data-sub {
+    font-size: 2.25rem;
+  }
+  
+  .data-label {
+    font-size: 1.375rem;
+  }
+  
+  .module-title {
+    font-size: 2.5rem;
+  }
+  
+  .module-content {
+    font-size: 1.5rem;
+  }
+  
+  .stat-value {
+    font-size: 3.25rem;
+  }
+  
+  .stat-label {
+    font-size: 1.5rem;
+  }
+}
+
+/* 字体缩小优化 - 确保所有模块正常显示，保持宽松舒适 */
+/* 适度缩小大字体，避免过度紧凑 */
+.text-2xl { font-size: 1.25rem !important; line-height: 1.75rem !important; }
+.text-3xl { font-size: 1.5rem !important; line-height: 2rem !important; }
+.text-4xl { font-size: 1.75rem !important; line-height: 2.25rem !important; }
+.text-5xl { font-size: 2.25rem !important; line-height: 2.75rem !important; }
+.text-6xl { font-size: 2.75rem !important; line-height: 3.25rem !important; }
+
+/* 响应式字体调整 - 在不同屏幕尺寸下保持宽松 */
+@media (max-width: 1024px) {
+  .text-4xl { font-size: 1.5rem !important; line-height: 2rem !important; }
+  .text-5xl { font-size: 1.75rem !important; line-height: 2.25rem !important; }
+  .text-6xl { font-size: 2rem !important; line-height: 2.5rem !important; }
+}
+
+@media (max-width: 768px) {
+  .text-3xl { font-size: 1.25rem !important; line-height: 1.75rem !important; }
+  .text-4xl { font-size: 1.5rem !important; line-height: 2rem !important; }
+  .text-5xl { font-size: 1.75rem !important; line-height: 2.25rem !important; }
+  .text-6xl { font-size: 2rem !important; line-height: 2.5rem !important; }
+}
+
+@media (max-width: 640px) {
+  .text-2xl { font-size: 1.125rem !important; line-height: 1.5rem !important; }
+  .text-3xl { font-size: 1.25rem !important; line-height: 1.75rem !important; }
+  .text-4xl { font-size: 1.5rem !important; line-height: 2rem !important; }
+  .text-5xl { font-size: 1.75rem !important; line-height: 2.25rem !important; }
+  .text-6xl { font-size: 2rem !important; line-height: 2.5rem !important; }
+}
+
+/* 强制字体缩小类 */
+.font-scale-75 { transform: scale(0.75); transform-origin: left top; }
+.font-scale-80 { transform: scale(0.8); transform-origin: left top; }
+.font-scale-85 { transform: scale(0.85); transform-origin: left top; }
+.font-scale-90 { transform: scale(0.9); transform-origin: left top; }
+.font-scale-95 { transform: scale(0.95); transform-origin: left top; }
+
+/* 模块内容字体优化 */
+.module-text-optimized {
+  font-size: 0.875rem !important;
+  line-height: 1.25rem !important;
+  overflow: hidden;
+  text-overflow: ellipsis;
+  display: -webkit-box;
+  -webkit-line-clamp: 3;
+  -webkit-box-orient: vertical;
+}
+
+/* 标题字体优化 */
+.title-optimized {
+  font-size: 1.25rem !important;
+  line-height: 1.5rem !important;
+  font-weight: 600;
+  margin-bottom: 0.5rem;
+}
+
+/* 数值字体优化 */
+.value-optimized {
+  font-size: 1.5rem !important;
+  line-height: 1.75rem !important;
+  font-weight: 700;
+  margin-bottom: 0.25rem;
+}
+
+/* 标签字体优化 */
+.label-optimized {
+  font-size: 0.875rem !important;
+  line-height: 1.25rem !important;
+  font-weight: 500;
+  opacity: 0.8;
+}

@@ -1,0 +1,15 @@
+{
+  "short_name": "湖北创业扶持",
+  "name": "湖北省创业扶持数据展示平台",
+  "icons": [
+    {
+      "src": "favicon.ico",
+      "sizes": "64x64 32x32 24x24 16x16",
+      "type": "image/x-icon"
+    }
+  ],
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#7c3aed",
+  "background_color": "#581c87"
+}
