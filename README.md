@@ -95,7 +95,9 @@ chmod +x deploy.sh
 ./deploy.sh
 ```
 windows:
+```
 ./deploy.bat
+```
 
 ## �� 许可证
 
